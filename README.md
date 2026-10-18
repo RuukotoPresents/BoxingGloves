@@ -1,9 +1,12 @@
 Adds dyable, trimmable, upgradable boxing gloves to Minecraft. They can be crafted with 4 leather in a square, meaning they can be crafted without a crafting table. They have unique enchants and abilities, like natural knockback, that make them quite formidable once fully upgraded, but they won't last long until they are. They can be dyed and trimmed like leather armor, to give them a customizable flair, and they can be upgraded using Netherite. They can be dual-wielded, and you can use one while holding up a shield. They support several weapon enchants such as looting, mending, unbreaking, and fire aspect, and they have 4 unique enchants you can apply to them:
 
-Jab - Double Attack Speed
-Rising - When crouching, attacking will make you do a jumping uppercut, at the cost of hunger
-Vulcan (Levels 1-5) - Throw a ghostly fist at your foes, at the cost of XP
-(NEW for 1.0 release) Soaring - When gliding with Elytra… Press and hold the button of the glove that has Soaring to hold it out for a small boost to flight speed and to knock foes out of your way! Dive into the ground to unleash a small shockwave and to reduce or even cancel fall damage. Kinetic damage to yourself is also reduced while using this ability!
+1. Jab - Double Attack Speed
+
+2. Rising - When crouching, attacking will make you do a jumping uppercut, at the cost of hunger
+
+3. Vulcan (Levels 1-5) - Throw a ghostly fist at your foes, at the cost of XP
+
+4. (NEW for 1.0 release) Soaring - When gliding with Elytra… Press and hold the button of the glove that has Soaring to hold it out for a small boost to flight speed and to knock foes out of your way! Dive into the ground to unleash a small shockwave and to reduce or even cancel fall damage. Kinetic damage to yourself is also reduced while using this ability!
 
 
 
